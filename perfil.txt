@@ -11,3 +11,12 @@ ESCUELA DE JAVASCRIPT
 * Curso de Asincronismo con Javascript
 * Curso de Fundamentos con Node.js
 * Curso de Backend con Node.js: API REST con EXPRESS.js
+
+ENGLISH ACADEMY
+* Curso de Estrategias para Aprender Inglés Online
+* Curso de Inglés para Principiantes
+* Taller de Inglés para Principiantes
+* Curso de Inglés Básico A1: Presente Simple y Vocabulario Común
+* Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples.
+* Curso de Inglés Básico: Descripciones y Comparativos
+* Curso de Inglés Básico: Pronunciación
