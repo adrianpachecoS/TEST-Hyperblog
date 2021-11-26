@@ -3,12 +3,22 @@ Carlos Adrian Pacheco Pinilla
 
 CURSOS EN PLATZI
 
+ESCUELA DESARROLLO WEB
+* Curso de Introducción a la Web: Historia y Funcionamiento de Internet.
+* Fundamentos de Ingeniería de Software
+* Curso de Prework
+* Curso de Introducción a la línea de Comandos
+* Curso de Fundamentos de Bases de Datos
+
 ESCUELA DE JAVASCRIPT
 * Curso de Prework
 * Curso Básico de Javascript
 * Curso Práctico de Javascript
+* Curso de Closures y Scope en Javascript
 * Curso de ECMAScript 6+
+* Curso de Javascript Engine (V8) y el Navegador
 * Curso de Asincronismo con Javascript
+* Curso de Gestión de Dependencias y Paquetes con NPM
 * Curso de Fundamentos con Node.js
 * Curso de Backend con Node.js: API REST con EXPRESS.js
 
