@@ -12,12 +12,12 @@ ESCUELA DESARROLLO WEB
 
 ESCUELA DE JAVASCRIPT
 * Curso de Prework
-* Curso Básico de Javascript
-* Curso Práctico de Javascript
-* Curso de Closures y Scope en Javascript
+* Curso Básico de JavaScript
+* Curso Práctico de JavaScript
+* Curso de Closures y Scope en JavaScript
 * Curso de ECMAScript 6+
-* Curso de Javascript Engine (V8) y el Navegador
-* Curso de Asincronismo con Javascript
+* Curso de JavaScript Engine (V8) y el Navegador
+* Curso de Asincronismo con JavaScript
 * Curso de Gestión de Dependencias y Paquetes con NPM
 * Curso de Fundamentos con Node.js
 * Curso de Backend con Node.js: API REST con EXPRESS.js
