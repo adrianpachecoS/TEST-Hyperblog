@@ -1,0 +1,13 @@
+PROFILE
+Carlos Adrian Pacheco Pinilla
+
+CURSOS EN PLATZI
+
+ESCUELA DE JAVASCRIPT
+* Curso de Prework
+* Curso Básico de Javascript
+* Curso Práctico de Javascript
+* Curso de ECMAScript 6+
+* Curso de Asincronismo con Javascript
+* Curso de Fundamentos con Node.js
+* Curso de Backend con Node.js: API REST con EXPRESS.js
